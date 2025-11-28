@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning python and full-stack web development.
 - 💞️ I’m looking to collaborate on web design.
 - 📫 [nguyenquy.kb94@gmail.com](mailto:nguyenquy.kb94@gmail.com)
-- Web Developer | IT comtor 🇻🇳
+- Full-stack Developer 🇻🇳
 
 ## My GitHub stats
 <a href="https://github.com/Nguyen-Quy/github-readme-stats">
